@@ -1,0 +1,9 @@
+:~  title+'Groups MCP'
+    info+'Choose which channels Earth clients may read or post in.'
+    color+0x1c.1915
+    version+[0 1 0]
+    website+''
+    license+'MIT'
+    base+'groups-mcp'
+    site+/groups-mcp/manage
+==
